@@ -1,0 +1,2 @@
+- deploy on heroku with acction trungdipdo4@gmail.com password: `hint Mhk204-`
+- project is be conected with github
